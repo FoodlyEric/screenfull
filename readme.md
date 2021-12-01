@@ -9,7 +9,7 @@ If you cannot use ESM or need to support older browsers without using transpilat
 
 **This package is feature complete. No new features will be accepted.**
 
-#### [Demo](https://sindresorhus.com/screenfull.js)
+#### [Demo](https://sindresorhus.com/screenfull)
 
 ## Install
 
